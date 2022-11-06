@@ -7,7 +7,7 @@
 
 # Base Client 
 
-chakir@LAPTOP-SVA891VG:~/CRM$ python3 manage.py makemigrations 
+"chakir@LAPTOP-SVA891VG:~/CRM$ python3 manage.py makemigrations 
 Migrations for 'CLIENT':
   CLIENT/migrations/0001_initial.py
     - Create model Client
@@ -27,3 +27,4 @@ Operations to perform:
   Apply all migrations: CLIENT, admin, auth, contenttypes, sessions
 Running migrations:
   Applying CLIENT.0001_initial... OK
+"
